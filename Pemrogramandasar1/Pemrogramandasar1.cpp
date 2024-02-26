@@ -15,6 +15,8 @@ int main()
 		// compute nLuas = 3.14 * r * r
 		// display 'Luasnya= ' + nLuas
 	//end
+	
+	double nJejari, nLuas;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
