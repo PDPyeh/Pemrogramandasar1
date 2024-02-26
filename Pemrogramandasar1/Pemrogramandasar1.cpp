@@ -18,6 +18,9 @@ int main()
 	
 	double nJejari, nLuas;
 	cout << "Masukan Jejari= ";
+	cin >> nJejari;
+	nLuas = 3.14 * nJejari * nJejari;
+	cout << "luasnya =" << nLuas << endl;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
